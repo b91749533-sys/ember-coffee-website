@@ -15,7 +15,6 @@ dist-ssr/
 # Environment variables & secrets (CRITICAL SECURITY)
 .env
 .env.*
-!.env.example
 *.pem
 *.key
 *.cert
